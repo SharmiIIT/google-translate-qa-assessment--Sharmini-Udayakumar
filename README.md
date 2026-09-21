@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the QA assessment conducted for **Google Translate – Text Translation**.
+This repository contains the QA assessment conducted for **Google Translate – Text Translation** by WireApps.
 
 The assessment focuses on manual testing of text translation functionality, including functional testing, language translation, input validation, UI behavior, error handling, and other relevant test scenarios.
 
